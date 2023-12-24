@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\sifreleme\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\legen\source\repos\sifreleme\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\legen\source\repos\sifreleme\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\legen\source\repos\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\sifreleme\sifreleme\obj\Debug\sifreleme.Form1.resources
+C:\Users\legen\source\repos\sifreleme\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\legen\source\repos\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\sifreleme\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\legen\source\repos\sifreleme\sifreleme\obj\Debug\sifreleme.pdb
